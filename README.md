@@ -6,7 +6,6 @@
 - 🦖 Instagram https://www.instagram.com/
 - 📧 Contact maulikranadive176@gmail.com
 - 💼LinkedIn https://www.linkedin.com/in/maulik-ranadive/
-- 
 
 <!---
 Maulik176/Maulik176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
