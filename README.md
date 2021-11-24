@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maulik176
-- 👀 I’m interested in Computer Science/Machine Learning/ARtificial intelligence
+- 👀 I’m interested in Computer Science/Machine Learning/Artificial intelligence
 - 🌱 I’m currently learning Coding languages and Web developing 
 - 💞️ I’m looking to collaborate on projects related to Computer Science stuff :)
 - 📫 How to reach me 
