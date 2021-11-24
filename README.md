@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maulik176
+- 👋 Hi, I’m Maulik 
 - 👀 I’m interested in Computer Science and Competitive Programming
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - :slightly_smiling_face: I’m looking to collaborate on projects related to Computer Science stuff :)
