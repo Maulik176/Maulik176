@@ -2,7 +2,6 @@
 - 👀 I’m interested in Computer Science and Competitive Programming
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - :slightly_smiling_face: I’m looking to collaborate on projects related to Computer Science stuff :)
-- :point_right: <a href= "https://www.instagram.com/__maulik__17__/"> </a>
 
 <!---
 Maulik176/Maulik176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,3 +37,5 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maulik176&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maulik176&theme=tokyonight)
+
+![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
