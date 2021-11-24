@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @Maulik176
-- 👀 I’m interested in Computer Science/Machine Learning/Artificial intelligence
-- 🌱 I’m currently learning Coding languages and Web developing 
-- 💞️ I’m looking to collaborate on projects related to Computer Science stuff :)
-- 📫 How to reach me 
-- 🦖 Instagram https://www.instagram.com/
-- 📧 Contact maulikranadive176@gmail.com
-- 💼LinkedIn https://www.linkedin.com/in/maulik-ranadive/
+- 👀 I’m interested in Computer Science and Competitive Programming
+- 🌱 I’m currently learning Data Structures and Algorithms 
+- :slightly_smiling_face: I’m looking to collaborate on projects related to Computer Science stuff :)
+- :point_right: Instagram https://www.instagram.com/
 
 <!---
 Maulik176/Maulik176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +17,7 @@ You can click the Preview link to take a look at your changes.
  <a href= "https://github.com/Maulik176" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/maulik-ranadive/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:maulikranadive176@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.instagram.com/__maulik__17__/" target="_blank" rel="noopener noreferrer"> <img src="<i class="fab fa-instagram"></i>" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
