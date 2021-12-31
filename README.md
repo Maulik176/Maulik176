@@ -1,4 +1,4 @@
-# Salut les amis <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+# HELLO WORLD <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 - 🔭 I’m Maulik Ranadive 
 - 👀 I’m interested in Computer Science and Competitive Programming
