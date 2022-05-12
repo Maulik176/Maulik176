@@ -36,8 +36,13 @@ You can click the Preview link to take a look at your changes.
 
 
 
+## My Github Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maulik176&show_icons=true&theme=tokyonight)
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maulik176&theme=github_dark" width="700"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Maulik176&margin-w=5&theme=radical" width="700"/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maulik176&theme=tokyonight)
 
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
