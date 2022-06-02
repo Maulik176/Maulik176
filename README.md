@@ -1,9 +1,10 @@
-# HELLO WORLD <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+# HELLO WORLD <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48">
 
 - 🔭 I’m Maulik Ranadive 
-- 👀 I’m interested in Computer Science and Competitive Programming
-- 🌱 I’m currently learning Data Structures and Algorithms
-- :slightly_smiling_face: I’m looking to collaborate on projects related to Web development/Computer Science stuff :)
+- 💻 I’m currently pursuing Computer Science and Engineering from Ahmedabad University.
+- 👀 I’m interested in becoming a Software Engineer.
+- 🌱 I like doing Competitive Programming and writing content.
+- :slightly_smiling_face: I’m looking to collaborate on projects related to Python, C++, and Web development :)
 
 <!---
 Maulik176/Maulik176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
