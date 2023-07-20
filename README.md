@@ -109,6 +109,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/> --->
 <a href=#><img src="contributions.svg"></a>
+![Snake animation](https://github.com/Maulik176/Maulik176/blob/output/github-contribution-grid-snake.svg)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Maulik176/count.svg" />
