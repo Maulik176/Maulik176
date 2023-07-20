@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 <p float="left">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 </p>
 
 
@@ -85,6 +85,12 @@ You can click the Preview link to take a look at your changes.
 <img src='https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465'/>
 </p>
 
+### Tools
+<p float="left">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
+
 
 ### Socials
 
@@ -95,15 +101,11 @@ You can click the Preview link to take a look at your changes.
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MaulikRanadive2)
 ## My Github Stats:
 
-<br>
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maulik176&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Maulik's Github Stats">
-</br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maulik176&theme=github_dark" width="700"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maulik176&theme=radical" width="700"/>
 <img src="https://github-profile-trophy.vercel.app/?username=Maulik176&margin-w=5&theme=radical" width="700"/>
-  
+<!--   https://github-profile-trophy.vercel.app/?username={username}&theme={theme_name} -->
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maulik176&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maulik176&theme=radical)
 
 <!--- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/> --->
 <a href=#><img src="contributions.svg"></a>
