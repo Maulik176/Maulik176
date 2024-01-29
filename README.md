@@ -1,8 +1,8 @@
 # HELLO WORLD <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48">
 
-- 🔭 I’m Maulik Ranadive 
+- 🔭 I’m Maulik Ranadive
+- 👀 I’m an Associate Software Engineering Intern in becoming at Aavenir.
 - 💻 I’m currently pursuing Computer Science and Engineering from Ahmedabad University.
-- 👀 I’m interested in becoming a Software Engineer.
 - 🌱 I like doing Competitive Programming and writing content.
 - :slightly_smiling_face: I’m looking to collaborate on projects related to Python, C++, and Web development :)
 
